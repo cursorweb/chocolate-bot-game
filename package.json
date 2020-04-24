@@ -1,0 +1,21 @@
+{
+  "name": "Chocolate-Bot-Game",
+  "version": "1.0.0",
+  "description": "Fun Idle Discord Bot Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Idle"
+  ],
+  "author": "Coder100",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
